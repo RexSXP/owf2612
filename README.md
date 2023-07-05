@@ -1,4 +1,4 @@
-![RANDOM SHIT] (https://i.imgur.com/yqeKya3.png)
+![RANDOM SHIT](https://i.imgur.com/yqeKya3.png)
 ## ✿ Hi there ✿
 
 ### Contacts
