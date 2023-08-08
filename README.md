@@ -5,4 +5,3 @@
 ### Contacts
 - Discord: **Owf#3993**
 
-[![hmmm](https://github-readme-stats.vercel.app/api?username=Owf2612&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
