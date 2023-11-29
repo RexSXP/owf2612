@@ -5,5 +5,5 @@
 ### Contacts
 - Discord: **Owf#3993**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=x2niosvn&show_icons=true&locale=en&layout=compact" alt="x2niosvn" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=x2niosvn&show_icons=true&locale=en" alt="x2niosvn" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Owf2612&show_icons=true&locale=en&layout=compact" alt="Owf" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Owf2612&show_icons=true&locale=en" alt="Owf" /></p>
