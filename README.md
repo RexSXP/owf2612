@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="owf.jpg"  />
+  <img height="150" src="owf.jpg" style="border-radius: 50%;" />
 </div>
 
 ###
@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">- Discord: **Owf**</p>
+<p align="left">- Discord: <strong>Owf</strong></p>
 
 ###
 
